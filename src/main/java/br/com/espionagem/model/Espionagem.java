@@ -4,6 +4,7 @@ public class Espionagem {
     private boolean cavaleiroAcordado;
     private boolean arqueiroAcordado;
     private boolean prisioneiroAcordado;
+    
 
     public Espionagem(boolean cavaleiroAcordado, boolean arqueiroAcordado, boolean prisioneiroAcordado) {
         this.cavaleiroAcordado = cavaleiroAcordado;
